@@ -31,7 +31,7 @@ To use this project, clone the repository and run each script in the order speci
 
 ### How to Use
 #### To run the app, first clone the repository:
-    git clone https://github.com/actuaryhafeez/A-web-scraping-project-for-books.toscrape.com-using-Python-and-BeautifulSoup.git
+    git clone https://github.com/actuaryhafeez/web-scraping-project-python-and-beautifulsoup.git
 #### Next, install the required packages using pip:
     pip install -r requirements.txt
 ### Run Jupyter Notebook using the following command to open notebook.ipynb
